@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![project](https://github.com/saikatsaha36/flutter_fetch_project/assets/78156183/847f9f9b-f4d7-4a45-b87d-8ba88fb05ff0)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
